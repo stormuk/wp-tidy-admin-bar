@@ -1,7 +1,7 @@
 wp-tidy-admin-bar
 =========================
 
-Simple options to tidy up the uncessary clutter in the WordPres Admin Bar
+Simple options to tidy up the uncessary clutter in the WordPress Admin Bar
 
 Currently the plugin supports the following:
 

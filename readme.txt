@@ -8,11 +8,11 @@ Stable tag: 1.0.1
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
-Simple options to tidy up the uncessary clutter in the WordPres Admin Bar
+Simple options to tidy up the uncessary clutter in the WordPress Admin Bar
 
 == Description ==
 
-Simple options to tidy up the uncessary clutter in the WordPres Admin Bar
+Simple options to tidy up the uncessary clutter in the WordPress Admin Bar
 
 == Installation ==
 
