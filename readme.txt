@@ -4,7 +4,7 @@ Donate link: http://www.stormconsultancy.co.uk/
 Tags: tinymce
 Requires at least: 3.4
 Tested up to: 3.5
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -24,6 +24,9 @@ Go to the plugins page and activate it.
 You can then visit the Settings > Tidy Admin Bar page to pick which elements you want to hide.
 
 == Changelog ==
+
+= 1.0.2 =
+* PHP 5.2 support
 
 = 1.0 =
 * First version
