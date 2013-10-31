@@ -58,9 +58,7 @@ $HIDE_ELEMENTS = array(
 if(get_option('hide_avatar') == '1'){
   add_action(
     'admin_bar_menu',
-    function() {
-      add_filter( 'pre_option_show_avatars', '__return_zero' );
-    },
+    create_function('', "add_filter( 'pre_option_show_avatars', '__return_zero' );"),
     0
   );
 }
